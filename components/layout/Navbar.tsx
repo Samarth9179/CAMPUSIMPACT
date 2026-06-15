@@ -182,8 +182,10 @@ export default function Navbar() {
                         <nav className="px-6 py-4 flex flex-col gap-1">
                             {navLinks
                                 .filter(link => {
-                                    if (role === 'faculty' || role === 'alumni' || role === 'student' || !role) {
+                                    if (role === 'faculty' || role === 'alumni') {
                                         return false;
+                                    } else if (role === 'student' || !role) {
+                                        return link.label !== 'Treasury' && link.label !== 'Governance';
                                     }
                                     return true;
                                 })
