@@ -167,6 +167,3 @@ Among hundreds of participating teams, the project was selected as one of the **
 Licensed under the **MIT License**.
 
 ---
-
-⭐ If you found this project interesting, consider giving it a **star**!
-Sneha
