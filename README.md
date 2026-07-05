@@ -125,6 +125,10 @@ npm run dev
 ```
 
 ---
+## UI
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/35cc0823-448e-4009-a377-32272dc6177b" />
+<img width="962" height="1074" alt="image" src="https://github.com/user-attachments/assets/4a8271b5-038e-4eaf-950e-b4785f5765c4" />
+<img width="962" height="1074" alt="image" src="https://github.com/user-attachments/assets/c77250fd-6c8c-454d-8bd4-cde3cbd4af1d" />
 
 ## 🏆 Hackathon Achievement
 
